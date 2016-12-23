@@ -1,0 +1,110 @@
+{
+    "name": "Alabama",
+    "abbreviation": "AL",
+    "cities":
+    {
+        "capital": "Montgomery",
+        "largest": "Birmingham"
+    },
+    "statehood": new Date(1819, 12, 14),
+    "population": 4858979,
+    "area":
+    {
+        "miles":
+
+        {
+            "total": 52420,
+            "land": 50645,
+            "water": 1775
+        },
+        "kilometers":
+        {
+            "total": 135767,
+            "land": 131170,
+            "water": 4597
+        }
+
+    },
+    "representatives": 7
+},
+{
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "cities":
+        {
+            "capital":"Juneau",
+            "largest":"Anchorage"
+        },
+    "statehood":new Date(1959, 1, 3),
+    "population": 738432,
+    "area":
+    {
+        "miles":
+        {
+            "total": 665384,
+            "land": 570641,
+            "water": 94743
+        },
+        "kilometers":
+        {
+            "total":1723337,
+            "land": 1477950,
+            "water": 245383
+        }
+    },
+    "representatives": 1
+},
+{
+    "name":"Arizona",
+    "abbreviation":"AZ",
+    "cities":
+    {
+        "capital":"Phoenix",
+        "largest":"Phoenix"
+    },
+    "statehood":new Date(1912, 2, 14),
+    "population": 6828065,
+    "area":
+    {
+        "miles":
+        {
+            "total":113990,
+            "land": 113594,
+            "water": 396
+        },
+        "kilometers":
+        {
+            "total": 295233,
+            "land": 294207,
+            "water": 1026
+        }
+    },
+    "representatives": 9
+},
+{
+    "name": "Arkansas",
+    "abbreviation": "AR",
+    "cities":
+    {
+        "capital": "Little Rock",
+        "largest": "Little Rock",
+    },
+    "statehood": new Date(1836, 6, 15),
+    "population": 2978204,
+    "area":
+    {
+        "miles":
+        {
+            "total": 53179,
+            "land": 52035,
+            "water": 1143
+        },
+        "kilometers":
+        {
+            "total": 137733,
+            "land": 134770,
+            "water": 2960
+        }
+    },
+    "representatives": 4
+}
