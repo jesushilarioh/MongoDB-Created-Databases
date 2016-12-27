@@ -107,4 +107,110 @@
         }
     },
     "representatives": 4
+},
+{
+    "name": "California",
+    "abbreviation": "CA",
+    "cities":
+    {
+        "capital": "Sacramento",
+        "largest": " Los Angeles"
+    },
+    "statehood": new Date(1850, 9, 9),
+    "population": 39144818,
+    "area":
+    {
+        "miles":
+        {
+            "total": 163695,
+            "land": 155799,
+            "water": 7916
+        },
+        "kilometers":
+        {
+            "total": 423968,
+            "land": 403466,
+            "water": 20502
+        }
+    },
+    "representatives": 53
+},
+{
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "cities":
+    {
+        "capital": "Denver",
+        "largest": "Denver"
+    },
+    "statehood": new Date(1876, 8, 1),
+    "population": 5456574,
+    "area":
+    {
+        "miles":
+        {
+            "total": 104094,
+            "land": 103642,
+            "water": 452
+        },
+        "kilometers":
+        {
+            "total": 269602,
+            "land": 268432,
+            "water": 1171
+        }
+    },
+    "representatives": 7
+},
+{
+    "name":"Delaware",
+    "abbreviation":"DE",
+    "cities":
+    {
+        "capital": "Dover",
+        "largest": "Wilmington"
+    },
+    "statehood": new Date(1787, 12, 7),
+    "area":
+    {
+        "miles":
+        {
+            "total": 2489,
+            "land": 1949,
+            "water": 540
+        },
+        "kilometers":
+        {
+            "total": 6446,
+            "land": 5048,
+            "water": 1399
+        }
+    },
+    "representatives": 1
+},
+{
+    "name":"Florida",
+    "abbreviation":"FL",
+    "cities":
+    {
+        "capital":"Tallahassee",
+        "largest":"Jacksonville"
+    },
+    "statehood": new Date(1845, 3, 3),
+    "area":
+    {
+        "miles":
+        {
+            "total": 65758,
+            "land": 53625,
+            "water": 12133
+        },
+        "kilometers":
+        {
+            "total": 170312,
+            "land": 138888,
+            "water": 31424
+        }
+    },
+    "representatives": 27
 }
